@@ -58,5 +58,4 @@ public class StudentEntity {
 		return "StudentEntity [id=" + id + ", fname=" + fname + ", lname=" + lname + ", email=" + email + "]";
 	}
 
-	
 }
